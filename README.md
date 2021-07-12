@@ -1,10 +1,10 @@
 # using SLAM map to launch the navigation
 
-#### in navigation simulation also you can choose a different enviroment and robot model in a navigation world ( like a SLAM simulation) .
+* in navigation simulation you can choose a different enviroment and robot model in a navigation world ( like a SLAM simulation).
 
-#### this link will help you to do this [navigathion simulation in turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/nav_simulation/)
+* this link will help you to do this [navigathion simulation in turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/nav_simulation/)
 
-#### you must first finish from this [ turtlebot3 with SLAM simulation](https://github.com/raghad1912/task-2-Turtlebot3-with-SLAM-approach) to keep map saved because you must map  prepared before running the Navigation.
+* you must first finish from this [ turtlebot3 with SLAM simulation](https://github.com/raghad1912/task-2-Turtlebot3-with-SLAM-approach) to keep map saved because you must map  prepared before running the Navigation.
 
 
 ### so , the steps to do this task is : 
